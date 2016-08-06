@@ -1,0 +1,1 @@
+The game seems to have problem on older CPUs. We recommend running it on atleast 2nd Gen i3 processor.
